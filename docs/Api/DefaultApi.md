@@ -1,6 +1,6 @@
 # Enbisys\Avm\DefaultApi
 
-All URIs are relative to *http://localhost*
+All URIs are relative to *https://avm.enbisys.com/api*
 
 Method | HTTP request | Description
 ------------- | ------------- | -------------
