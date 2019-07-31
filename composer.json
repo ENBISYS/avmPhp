@@ -1,5 +1,5 @@
 {
-    "name": "enbisys/avmphp",
+    "name": "enbisys/avm-client",
     "description": "This is api for AVM (automated valuation machine)",
     "keywords": [
         "openapitools",
