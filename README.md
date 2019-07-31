@@ -10,7 +10,7 @@ PHP 5.5 and later
 
 ## Installation & Usage
 
-composer require accakyra/avmphp
+composer require enbisys/avm-client
 
 ## Getting Started
 
