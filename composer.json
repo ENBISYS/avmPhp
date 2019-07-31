@@ -2,15 +2,17 @@
     "name": "enbisys/avm-client",
     "description": "This is api for AVM (automated valuation machine)",
     "keywords": [
-        "openapitools",
-        "openapi-generator",
-        "openapi",
+        "england",
+        "buildings",
+        "avm",
+        "AI",
+        "machine learning",
         "php",
         "sdk",
         "rest",
         "api"
     ],
-    "homepage": "https://openapi-generator.tech",
+    "homepage": "https://avm.enbisys.com",
     "license": "unlicense",
     "authors": [
         {
