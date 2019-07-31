@@ -10,7 +10,9 @@ PHP 5.5 and later
 
 ## Installation & Usage
 
+```
 composer require enbisys/avm-client
+```
 
 ## Getting Started
 
